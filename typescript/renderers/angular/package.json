@@ -42,8 +42,8 @@
   },
   "peerDependencies": {
     "@a2ui/markdown-it": "workspace:*",
-    "@angular/common": "^21.2.5",
-    "@angular/core": "^21.2.5",
+    "@angular/common": "^21.2.20",
+    "@angular/core": "^21.2.20",
     "@angular/platform-browser": "^21.2.5"
   },
   "peerDependenciesMeta": {
@@ -55,10 +55,10 @@
     "@a2ui/markdown-it": "workspace:*",
     "@angular/build": "^21.2.5",
     "@angular/cli": "^21.2.5",
-    "@angular/common": "^21.2.5",
+    "@angular/common": "^21.2.20",
     "@angular/compiler": "^21.2.5",
     "@angular/compiler-cli": "^21.2.5",
-    "@angular/core": "^21.2.5",
+    "@angular/core": "^21.2.20",
     "@angular/platform-browser": "^21.2.5",
     "@types/express": "^5.0.6",
     "@types/jasmine": "^6.0.0",
